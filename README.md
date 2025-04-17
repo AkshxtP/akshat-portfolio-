@@ -3,7 +3,7 @@
 This is my personal portfolio website built using **Next.js 13**, styled with **CSS**, and animated using **Framer Motion**. It showcases who I am, what I do, and how to reach me. Fully responsive and deployable on **Vercel**.
 
 ## Demo
-Check it live here: [https://akshat-portfolio-.vercel.app](https://akshat-portfolio-.vercel.app)
+Check it live here: [https://akshat-portfolio-1.vercel.app/]
 
 ---
 
